@@ -5,7 +5,6 @@
 ---
 
 ## 👥 Integrantes del Equipo
-> Por favor, añade los nombres de los miembros del equipo a continuación:
 
 * **Marisa Ruiz** - *Developer / Tareas realizadas*
 * **Jose Loero Nielez** - *Developer / Tareas realizadas*
@@ -17,9 +16,9 @@
 
 ## 🚀 Enlaces del Proyecto
 
-* **Diseño en Figma:** [[Enlace a tu prototipo de Figma aquí](https://www.figma.com/design/CfMYqBQ3bMZOrY1PCqVZ3b/Sin-t%C3%ADtulo?node-id=0-1)]
-* **Sitio Web en Vivo (GitHub Pages):** [[Enlace a tu GitHub Pages aquí](https://wfhgdev.github.io/imaginary-country/)]
-* **Tablero de Organización:** [Enlace a tu GitHub Project aquí]
+* [[**Diseño en Figma**](https://www.figma.com/design/CfMYqBQ3bMZOrY1PCqVZ3b/Sin-t%C3%ADtulo?node-id=0-1)]
+* [[**Sitio Web en GitHub Pages**](https://wfhgdev.github.io/imaginary-country/)]
+* **Tablero de Organización** [Enlace a GitHub Project]
 
 ---
 
